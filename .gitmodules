@@ -1,0 +1,36 @@
+[submodule "மின்னூல்"]
+	path = மின்னூல்
+	url = https://github.com/247i/Calibre.git
+[submodule "🍒செர்ரிமரம்"]
+	path = 🍒செர்ரிமரம்
+	url = https://github.com/247i/CherryTree.git
+[submodule "குடாஉரை"]
+	path = குடாஉரை
+	url = https://github.com/247i/CudaText.git
+[submodule "மேதை"]
+	path = மேதை
+	url = https://github.com/247i/Geany.git
+[submodule "வழிகாட்டி"]
+	path = வழிகாட்டி
+	url = https://github.com/247i/Guide.git
+[submodule "குனுபணம்"]
+	path = குனுபணம்
+	url = https://github.com/247i/GnuCash.git
+[submodule "அமைப்பாளர்"]
+	path = அமைப்பாளர்
+	url = https://github.com/247i/Kompozer.git
+[submodule "குறிப்பேடு++32"]
+	path = குறிப்பேடு++32
+	url = https://github.com/247i/Notepad32.git
+[submodule "குறிப்பேடு++64"]
+	path = குறிப்பேடு++64
+	url = https://github.com/247i/Notepad64.git
+[submodule "எஆவமாதிருத்தி"]
+	path = எஆவமாதிருத்தி
+	url = https://github.com/247i/PDFXEdit.git
+[submodule "எழுத்தாளன்"]
+	path = எழுத்தாளன்
+	url = https://github.com/247i/Scribus.git
+[submodule "அலுவலகம்"]
+	path = அலுவலகம்
+	url = https://github.com/247i/Office.git
