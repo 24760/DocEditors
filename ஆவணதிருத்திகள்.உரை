@@ -17,3 +17,5 @@
 - git submodule add https://github.com/247i/Office.git அலுவலகம்
 - git submodule add https://github.com/247i/PDFXEdit.git எஆவமாதிருத்தி
 - git submodule add https://github.com/247i/PDFXLocalizer.git எஆவமாதிருத்திமொழியாக்கம்
+- git submodule add https://github.com/247i/Scribus.git எழுத்தாளன்
+- git submodule add https://github.com/247i/TextEditors.git உரைதிருத்தி
