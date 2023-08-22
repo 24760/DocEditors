@@ -1,0 +1,19 @@
+# ஆவணதிருத்திகள்
+
+# if submodules are empty then use the following command 
+- git submodule update --init --recursive 
+
+- git submodule add https://github.com/247i/Calibre.git மின்னூல்
+- git submodule add https://github.com/247i/CherryTree.git 🍒செர்ரிமரம்
+- git submodule add https://github.com/247i/CudaText.git குடாஉரை
+- git submodule add https://github.com/247i/foxit.git நரி
+- #Need to add files 
+- git submodule add https://github.com/247i/Geany.git  மேதை 
+- git submodule add https://github.com/247i/GnuCash.git குனுபணம்
+- git submodule add https://github.com/247i/Guide.git வழிகாட்டி 
+- git submodule add https://github.com/247i/Kompozer.git அமைப்பாளர்
+- git submodule add https://github.com/247i/Notepad32.git குறிப்பேடு++32
+- git submodule add https://github.com/247i/Notepad64.git குறிப்பேடு++64 
+- git submodule add https://github.com/247i/Office.git அலுவலகம்
+- git submodule add https://github.com/247i/PDFXEdit.git எஆவமாதிருத்தி
+- git submodule add https://github.com/247i/PDFXLocalizer.git எஆவமாதிருத்திமொழியாக்கம்
