@@ -6,8 +6,6 @@
 - git submodule add https://github.com/247i/Calibre.git மின்னூல்
 - git submodule add https://github.com/247i/CherryTree.git 🍒செர்ரிமரம்
 - git submodule add https://github.com/247i/CudaText.git குடாஉரை
-- git submodule add https://github.com/247i/foxit.git நரி
-- #Need to add files 
 - git submodule add https://github.com/247i/Geany.git  மேதை 
 - git submodule add https://github.com/247i/GnuCash.git குனுபணம்
 - git submodule add https://github.com/247i/Guide.git வழிகாட்டி 
