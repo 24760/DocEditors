@@ -34,3 +34,6 @@
 [submodule "அலுவலகம்"]
 	path = அலுவலகம்
 	url = https://github.com/247i/Office.git
+[submodule "குடாஉரை64"]
+	path = குடாஉரை64
+	url = https://github.com/247i/CudaText64.git
