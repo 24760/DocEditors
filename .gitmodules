@@ -26,3 +26,6 @@
 	path = குறிப்பேடு++
 	url = https://github.com/247i/NotePadPP.git
 
+[submodule "குடாஉரை"]
+	path = குடாஉரை
+	url = https://github.com/247i/CudaText.git
