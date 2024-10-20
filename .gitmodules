@@ -1,9 +1,6 @@
 [submodule "🍒செர்ரிமரம்"]
 	path = 🍒செர்ரிமரம்
 	url = https://github.com/247i/CherryTree.git
-[submodule "குடாஉரை"]
-	path = குடாஉரை
-	url = https://github.com/247i/CudaText.git
 [submodule "மேதை"]
 	path = மேதை
 	url = https://github.com/247i/Geany.git
@@ -25,9 +22,6 @@
 [submodule "அலுவலகம்"]
 	path = அலுவலகம்
 	url = https://github.com/247i/Office.git
-[submodule "குடாஉரை64"]
-	path = குடாஉரை64
-	url = https://github.com/247i/CudaText64.git
 [submodule "குறிப்பேடு++"]
 	path = குறிப்பேடு++
 	url = https://github.com/247i/NotePadPP.git
