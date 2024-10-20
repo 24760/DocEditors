@@ -11,7 +11,7 @@
 - git submodule add https://github.com/247i/GnuCash.git குனுபணம்
 - git submodule add https://github.com/247i/Guide.git வழிகாட்டி 
 - git submodule add https://github.com/247i/Kompozer.git அமைப்பாளர்
-- git submodule add https://github.com/247i/Notepad.git குறிப்பேடு++
+- git submodule add https://github.com/247i/NotePadPP.git குறிப்பேடு++
 - git submodule add https://github.com/247i/Office.git அலுவலகம்
 - git submodule add https://github.com/247i/PDFXEdit.git எஆவமாதிருத்தி
 - git submodule add https://github.com/247i/Scribus.git எழுத்தாளன்

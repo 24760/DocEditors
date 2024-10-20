@@ -28,3 +28,6 @@
 [submodule "குடாஉரை64"]
 	path = குடாஉரை64
 	url = https://github.com/247i/CudaText64.git
+[submodule "குறிப்பேடு++"]
+	path = குறிப்பேடு++
+	url = https://github.com/247i/NotePadPP.git
