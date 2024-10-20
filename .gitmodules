@@ -16,12 +16,6 @@
 [submodule "அமைப்பாளர்"]
 	path = அமைப்பாளர்
 	url = https://github.com/247i/Kompozer.git
-[submodule "குறிப்பேடு++32"]
-	path = குறிப்பேடு++32
-	url = https://github.com/247i/Notepad32.git
-[submodule "குறிப்பேடு++64"]
-	path = குறிப்பேடு++64
-	url = https://github.com/247i/Notepad64.git
 [submodule "எஆவமாதிருத்தி"]
 	path = எஆவமாதிருத்தி
 	url = https://github.com/247i/PDFXEdit.git
